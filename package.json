@@ -1,0 +1,34 @@
+{
+    "app_name": "BonkIO Game Wrapper",
+    "description": "bonk.io game wrapper",
+    "keywords": [
+        "bonk",
+        "io",
+        "game",
+        "wrapper"
+    ],
+    "main": "index.html",
+    "name": "BonkGameWrapper",
+    "version": "1.0.1",
+    "webexe_settings": {
+        "download_dir": "",
+        "force_download": false,
+        "linux-x32": false,
+        "mac-x64": false,
+        "nw_compression_level": 0,
+        "nw_version": "0.33.2",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "windows-x32": true,
+        "windows-x64": false
+    },
+    "webkit": {},
+    "window": {
+        "exe_icon": "DF_logo256.png",
+        "height": 600,
+        "icon": "DF_logo256.png",
+        "id": "BonkGameWrapper",
+        "title": "BonkGameWrapper",
+        "width": 800
+    }
+}
